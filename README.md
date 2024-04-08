@@ -9,6 +9,7 @@ The goal of this project was to scrape data from a Wikipedia page listing the la
 - Parsing the HTML content and extracting data using `BeautifulSoup`.
 - Cleaning and structuring the data with `pandas`.
 - Saving the cleaned data into a CSV file for further analysis or visualization.
+- Website used: https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 
 ## Tools and Libraries Used
 
